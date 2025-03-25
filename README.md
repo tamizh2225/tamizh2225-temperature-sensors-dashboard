@@ -55,12 +55,12 @@ The app should now be running on http://localhost:3000 in your web browser.
 │
 ├── /src
 │   ├── /components
-│   │   └── TemperatureChart.js  # Component for the temperature chart and current temperature display
-│   ├── App.js                  # Main app component
-│   ├── App.css                 # CSS file for styling the app
-│   └── index.js                # Entry point for the app
-├── package.json                # Project dependencies and configuration
-└── README.md                   # This README file
+│   │   └── TemperatureChart.js  
+│   ├── App.js                 
+│   ├── App.css              
+│   └── index.js               
+├── package.json                
+└── README.md  
 
 # How It Works
 
